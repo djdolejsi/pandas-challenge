@@ -1,0 +1,8 @@
+There were a couple of conclusions i was able to make with the PyCitySchools.
+
+1. Spending more money per student did not improve scores and passing rates and even some of the top schools that spent the most per student were in the bottom performing based on overall passing percentage.
+   I would be curious to know what those bottom performing schools are spending their budgets on.
+
+2. Larger school had lower scores and passing rates. This could be potientally to the teacher to student ratio however we do not have the data to back up that hypothesis.
+
+3. Charter schools outperformed distrcit school by quite a margin especially in math and overall passing percentage. This could be due to the fact as there are not as many students attending charter school as there are district schools.
